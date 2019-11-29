@@ -1,0 +1,31 @@
+@font-face {
+  font-family: RO Sans;
+  src: url("./Fonts/ROsanswebtextregular.woff");
+}
+
+@font-face {
+  font-family: RO Sans;
+  src: url("./Fonts/ROsanswebtextbold.woff");
+  font-weight: bold;
+}
+
+
+p {
+  font-family: "RO Sans",Calibri,sans-serif !important;
+  font-weight: normal !important;
+  font-size: 18px !important;
+}
+h1, h2, h3, h4, h5 {
+  font-family: "RO Sans",Calibri,sans-serif !important;
+  font-weight: bold !important;
+}
+
+.ui.inverted.segment {
+  background-color: #154273 !important;
+}
+
+.ui.inverted.menu {
+  background-color: #154273 !important;
+  border: none !important;
+
+}
